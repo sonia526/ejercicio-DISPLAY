@@ -1,0 +1,65 @@
+span{
+	background-color: green;
+	display: block;
+	
+	padding: 30px;
+}
+span{
+	background-color: blue;
+	display: block;
+
+
+}
+p{
+	background-color: red;/*fondo de color*/
+	display: block;
+	
+}
+h4{
+	background-color: orange;
+	display: block;
+}
+h3{
+	display: block;
+     display: table;
+	background-color: green;
+	margin-left:30px;
+	padding: 30px;
+	right: 30px;
+	height: 20px;
+}
+.box{
+	display: block;
+	color: white;/*color blanco*/
+	background-color: crimson;
+	padding: 10px;/*relleno*/
+	margin: 10px;
+	text-transform: uppercase;/*transforma minuscula a mayuscula*/
+	font-weight: bolder;/* para la letra mas gordita*/
+}
+.boxe{
+
+	display: block;
+	color: white;/*color blanco*/
+	background-color: crimson;
+	padding: 10px;/*relleno*/
+	margin: 10px;
+	text-transform: uppercase;/*transforma minuscula a mayuscula*/
+	font-weight: bolder;
+	width: 100px;/*pixeles es mas chico que porcentaje%*/
+}
+.pixi{
+	display: inline;
+	color: white;/*color blanco*/
+	background-color: crimson;
+	padding: 10px;/*relleno*/
+	margin: 10px;
+	text-transform: uppercase;/*transforma minuscula a mayuscula*/
+	font-weight: bolder;
+	width: 50px;
+}
+
+
+
+
+
